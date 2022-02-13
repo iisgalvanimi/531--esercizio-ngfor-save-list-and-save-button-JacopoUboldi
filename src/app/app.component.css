@@ -1,0 +1,13 @@
+.Container{
+    border-style: solid;
+    background-color: saddlebrown;
+    padding: 2%;
+    font-size: large;
+}
+h1{
+    color:white ;
+}
+.risultato{
+    border-style: solid;
+    background-color: salmon;
+}
